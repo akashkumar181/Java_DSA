@@ -1,3 +1,4 @@
+
 public class  Array{
  public static void main(String[] args) {
     int [] arr=new int[10];
@@ -19,6 +20,7 @@ public class  Array{
             System.out.println(arr[i]);
         }
     }
+    
  }
     
 }

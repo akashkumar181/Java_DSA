@@ -19,6 +19,7 @@ public class Stringbufferr {
         // reverse() → reverses the entire string
         sbb.reverse();
         System.out.println(sbb); // Output: dlroW olleH
+        
 
         // length() → returns the length of the current string
         System.out.println("Length: " + sbb.length()); // Output: 11

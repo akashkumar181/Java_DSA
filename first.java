@@ -4,7 +4,7 @@
 public class first {
     static int add(int a, int b) { //we have used static  becuase main main function has used static keyword for calling inside main i have used
     return a + b;
-                             
+    //it is pass by value                         
 }
     static int mul(int a, int b) { //we have used static  becuase main main function has used static keyword for calling inside main i have used
     return a * b;

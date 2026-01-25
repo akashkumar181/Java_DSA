@@ -67,7 +67,20 @@ public class Question {
             place = place * 10;
             temp = temp / 2;
         }
-
+        //--Perfect number
+        int n=6;
+        int sum=0;
+        for(int i=1;i<=n/2;i++){
+            if(n%i==0){
+              sum=sum+i;
+            }
+        }
+        System.out.println(sum);
+     if(n==sum){
+        System.out.println("Perfect Number");
+     }else{
+        System.out.println("Not Perfect Number");
+     }
     
 
      

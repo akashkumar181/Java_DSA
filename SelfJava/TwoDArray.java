@@ -2,6 +2,12 @@ package SelfJava;
 
 public class TwoDArray {
     public static void main(String[] args) {
+//         String[][] cars = {
+//     {"Mahindra", "Tata", "Ashok Leyland"},
+//     {"BMW", "SAFARI", "LANDEOVER"},
+//     {"Rangerover", "Frari", "Merceds"}
+// };
+
         String[][] cars=new String[3][3];
         cars[0][0]="Mahindra";
         cars[0][1]="Tata";

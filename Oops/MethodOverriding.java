@@ -23,8 +23,8 @@ public class MethodOverriding {
     public static void main(String[] args) {
         
         // Method overriding = When a subclass provides its own
-        //                                      implementation of a method that is already defined.
-        //                                      Allows for code reusability and gives specific implementations.
+        // implementation of a method that is already defined.
+        // Allows for code reusability and gives specific implementations.
 
         Doggg dog = new Doggg();
         Cattt cat = new Cattt();
